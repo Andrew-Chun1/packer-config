@@ -1,0 +1,32 @@
+This test file should help with keybind practice and lookup
+BASICS
+":w" = save
+":q" = quit
+":q!" = quit & don't save
+":wq" = save & quit
+"i" = insert mode
+"h" "j" "k" "l" = left, down, up right
+
+
+
+leader = " "
+
+BASIC LOOKUP
+"leaderfg" -- quick typed search
+"leaderff" -- find files
+"<C-p>" -- search git tree 
+
+
+SPLITSCREENS
+"leadersh" split screen right
+"leadersv" split screen bottom
+"leaderse" go back to 50/50 screens
+"leadersx" close tabs
+
+simple right?
+
+TABS
+"leaderto" Open new tab
+"leadertn" go to next tab
+"leadertp" go to prev tab
+"leadertx" tab close 
